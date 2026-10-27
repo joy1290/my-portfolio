@@ -645,7 +645,7 @@ catch (error: unknown) {
           <div>
             <p className="text-sm text-gray-500">Email</p>
             <p className="mt-1 break-all font-semibold">
-              your-email@example.com
+              joydhar025@gmail.com
             </p>
           </div>
         </div>
@@ -658,7 +658,7 @@ catch (error: unknown) {
           <div>
             <p className="text-sm text-gray-500">Phone</p>
             <p className="mt-1 font-semibold">
-              Add your phone number
+              01644797477
             </p>
           </div>
         </div>
